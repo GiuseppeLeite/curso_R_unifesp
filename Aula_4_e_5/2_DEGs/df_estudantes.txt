@@ -1,0 +1,9 @@
+"Nome"	"Idade"	"Matematica"	"Ciencias"	"Portugues"	"Atividades"
+"Ana"	23	85	88	90	TRUE
+"Bruno"	21	90	79	88	FALSE
+"Carlos"	22	78	85	92	TRUE
+"Diana"	20	92	90	85	TRUE
+"Eduardo"	23	88	92	89	FALSE
+"Fernanda"	21	76	80	94	TRUE
+"Gabriel"	22	95	87	87	FALSE
+"Helena"	20	89	91	90	TRUE
